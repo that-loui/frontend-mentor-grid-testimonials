@@ -24,7 +24,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ live site ](https://that-loui.github.io/frontend-mentor-grid-testimonials/)
+- git repo url: [repo](https://github.com/that-loui/frontend-mentor-grid-testimonials)
 
 ## My process
 
